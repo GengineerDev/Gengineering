@@ -16,7 +16,7 @@
 </ul>
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Gengineering=&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gengineering&theme=radical)
 
 ## Let's connect!
 <ul>
