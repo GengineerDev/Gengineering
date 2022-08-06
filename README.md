@@ -6,7 +6,7 @@
 - 📫 How to reach me: pedegloriodavidgenesis@gmail.com
 
 ## Skills 🤔
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="200"/>
 
 <!---
 Gengineering/Gengineering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
