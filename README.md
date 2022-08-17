@@ -26,7 +26,7 @@
 ## Let's connect!
 <ul>
   <li><a href="https://web.facebook.com/davidgenesis.pedeglorio/" target="_blank">Facebook</a></li>
-  <li><a href="[https://web.facebook.com/davidgenesis.pedeglorio](https://www.instagram.com/davidgenesisc.pedeglorio/)/" target="_blank">Instagram</a></li>
+  <li><a href="https://www.instagram.com/davidgenesisc.pedeglorio/" target="_blank">Instagram</a></li>
 </ul>
 
 
